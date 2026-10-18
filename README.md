@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk menganalisis kinerja penjualan dan perilaku pelanggan
 ---
 
 ## Tech Stack & Tools
-* **Programming Language:** Python 3.x
+* **Programming Language:** Python 3.14
 * **Data Processing & Analysis:** Pandas, Datetime
 * **Data Visualization:** Matplotlib
 * **Development Environment:** Visual Studio Code / Jupyter Notebooks
